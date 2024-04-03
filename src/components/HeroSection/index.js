@@ -33,7 +33,7 @@ const HeroSection = () => {
 
                     <HeroRightContainer id="Right">
 
-                        <Img src={"https://avatars.githubusercontent.com/u/95520329?v=4"} alt="hero-image" />
+                        <Img src={Bio.photo} alt="hero-image" />
                     </HeroRightContainer>
                 </HeroInnerContainer>
 
