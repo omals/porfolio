@@ -15,7 +15,7 @@ export const Bio = {
     twitter: "https://x.com/omal_shivan?t=794J-I90y1zL1cVH-BeRfA&s=09",
     insta: "https://www.instagram.com/omal_shivan/",
     facebook: "https://www.facebook.com/profile.php?id=100071666576910&mibextid=ZbWKwL",
-    photo: "https://drive.google.com/file/d/1EhbhpM_-uegxgMDnXNoIUmrPnYnx2JiA/view?usp=drivesdk", 
+    photo: "https://avatars.githubusercontent.com/u/95520329?v=4", 
   };
   
   export const skills = [
