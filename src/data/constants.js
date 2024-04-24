@@ -10,7 +10,7 @@ export const Bio = {
       " Deeply passionate about leveraging technology to drive innovation and solve complex problems. Being curious to know what's happening new in the technology world, develop new innovative ideas, meeting new tech enthusiastic minds and discussing and sharing my knowledge and experience with everyone. ",
     github: "https://github.com/omals",
     resume:
-      "https://drive.google.com/file/d/1EhbhpM_-uegxgMDnXNoIUmrPnYnx2JiA/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1AgNDjFUgMNzW7eDGRLU-oYfi8ywWAB3S/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/omal-sivankutty-a1044a227/",
     twitter: "https://x.com/omal_shivan?t=794J-I90y1zL1cVH-BeRfA&s=09",
     insta: "https://www.instagram.com/omal_shivan/",
